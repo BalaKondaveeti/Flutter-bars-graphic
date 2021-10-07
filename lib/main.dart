@@ -261,6 +261,7 @@ class TheCategoriesWidget extends StatelessWidget {
               Color(0xFF10a3aa),
             ],
           ),
+          SizedBox(width:6),
         ],
       ),
     );
