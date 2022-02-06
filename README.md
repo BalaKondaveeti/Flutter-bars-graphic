@@ -3,7 +3,7 @@
 ## Suggestions are welcomed, whether it be small or big... you can contact me at @hello_user_1 on telegram
 
 ### Important
-> later, I will add some screenshots screenshots of this project here.
+> later, I will add some screenshots of this project here.
 > If you have screenshots, please upload them here
 
 
