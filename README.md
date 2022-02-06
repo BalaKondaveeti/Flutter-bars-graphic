@@ -1,6 +1,6 @@
 # Flutter animation demo
 
-# Suggestions are welcomed, whether it be small or big... you can contact me at @hello_user_1 on telegram
+## Suggestions are welcomed, whether it be small or big... you can contact me at @hello_user_1 on telegram
 
 ### Important
 > later, I will add some screenshots screenshots of this project here.
